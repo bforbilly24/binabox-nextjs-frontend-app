@@ -48,7 +48,6 @@ binabox-nextjs-frontend-app
 ├── pages
 ├── public
 │   ├── assets
-├── util
 ├── jsconfig.json 
 ├── package.json
 └── next.config.js
