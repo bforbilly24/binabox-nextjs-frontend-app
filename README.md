@@ -39,6 +39,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ```bash
 binabox-nextjs-frontend-app 
+├── app
 ├── components
 │   ├── elements
 │   ├── layout
